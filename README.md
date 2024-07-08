@@ -95,7 +95,7 @@ The Hospital Management System (HMS) API provides a set of endpoints to manage h
 
 1. **Clone the repository**:
   
-   git clone https://github.com/sanad/hospital_Project
+   git clone https://github.com/sanadsul/hospital_Project
    cd hospital_project
  
 
