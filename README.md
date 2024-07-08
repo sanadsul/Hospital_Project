@@ -95,8 +95,8 @@ The Hospital Management System (HMS) API provides a set of endpoints to manage h
 
 1. **Clone the repository**:
   
-   git clone https://github.com/sohilaehab25/hospital_system
-   cd hospital_system
+   git clone https://github.com/sanad/hospital_Project
+   cd hospital_project
  
 
 2. **Configure environment variables**:
@@ -128,5 +128,5 @@ Contributions are welcome! Follow these steps:
 
 ## Contact
 
-For questions or feedback, contact Sohila Ehab at [sohailaehab25@gmail.com](mailto:sohailaehab25@gmail.com) or visit [GitHub](https://github.com/sohilaehab25).
+For questions or feedback, contact Sanad Suleman at [sanadsul56@gmail.com](mailto:sanadsul56@gmail.com) or visit [GitHub](https://github.com/sanadsul).
 
