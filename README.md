@@ -2,7 +2,7 @@
 
 # Hospital Management System (HMS) API
 
-**API endpoints for hospital management using Laravel**
+**API endpoints for hospital management using Nodejs => Express js**
 
 ## Overview
 
